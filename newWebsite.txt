@@ -1,0 +1,42 @@
+<!DOCTYPE>
+<html>
+<head>
+  <title>Zach's Fantasy Football Helper</title>
+</head>
+<body> 
+  <h3>Top Picks:</h3>
+  <br />
+    <ol>
+	<a href="file:///E:/ZachsWebsiteDavidJohnsonBio.html">David Johnson</a>
+        <a href="file:///E:/Zach's%20Website/ZachsWebsiteLe'VeonBellBio.html">Le'Veon Bell</a>
+    </ol>
+  <br />
+  <h3>Rookies to Watch: </h3>
+  <br />
+    <ol>
+      <li>Leonard Fournette</li>
+      <li>Christian McCaffery</li>
+      <li>Dalvin Cook</li>
+      <li>Joe Mixon</li>
+      <li>Corey Davis</li>
+      <li>Samaje Perine</li>
+      <li>Mike Williams</li>
+      <li>Kareem Hunt</li>
+      <li>Jamaal Williams</li>
+      <li>Zay Jones</li>
+    </ol>
+  <br />
+  <h3>Top Sleepers</h3>
+  <br />
+    <ul>
+	 <li>Alex Collins</li>
+	 <li>C.J. Anderson</li>
+	 <li>Martavis Bryant</li>
+	 <li>Jamison Crowder</li>
+	 <li>Carson Wentz</li>
+	</ul>
+  <br />
+  <h3>News:</h3>
+  <br />
+</body>
+</html>
